@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1629388043 source:/home/olivier/Travail_perso/eclipse_c++/developement_de_jeux_C++/Asteroide/main.cpp
+	<SFML/Graphics.hpp>
+	"vaisseau.h"
+
+1629388127 source:/home/olivier/Travail_perso/eclipse_c++/developement_de_jeux_C++/Asteroide/vaisseau.cpp
+	<SFML/Graphics.hpp>
+	"vaisseau.h"
+
+1629388269 /home/olivier/Travail_perso/eclipse_c++/developement_de_jeux_C++/Asteroide/vaisseau.h
+	<SFML/Graphics.hpp>
+
